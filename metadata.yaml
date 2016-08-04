@@ -1,0 +1,58 @@
+_repo: An-Outcast-of-the-Islands_638
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Jozef Konrad Teodor
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Józef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+description: "An Outcast of the Islands is the second novel by Joseph Conrad, published\
+  \ in 1896, inspired by Conrad's experience as mate of a steamer, the Vidar.\nThe\
+  \ novel details the undoing of Peter Willems, a disreputable, immoral man who, on\
+  \ the run from a scandal in Makassar, finds refuge in a hidden native village, only\
+  \ to betray his benefactors over lust for the tribal chief's daughter. The story\
+  \ features Conrad's recurring character Tom Lingard, who also appears in Almayer's\
+  \ Folly (1895) and The Rescue (1920), in addition to sharing other characters with\
+  \ those novels. It is considered to be underrated as a work of literature for many.\
+  \ Conrad romanticizes the jungle environment and its inhabitants in a similar style\
+  \ to his \"Heart of Darkness\".\nThis novel was adapted into the film Outcast of\
+  \ the Islands in 1951 by director Carol Reed, featuring Trevor Howard as Willems,\
+  \ Ralph Richardson as Lingard, Robert Morley, and Wendy Hiller.\nThe work was quoted\
+  \ in T. S. Eliot's The Hollow Men ('Life is very long.').\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '638'
+  wikidata: Q1090444
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europeans -- Southeast Asia -- Fiction'
+- !lcsh 'Betrayal -- Fiction'
+- !lcsh 'Lingard, Tom (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Southeast Asia -- Fiction'
+- !lcsh 'Clerks -- Fiction'
+- !lcsh 'Trading companies -- Fiction'
+- !lcsh 'Psychological fiction'
+- GITenberg
+title: An Outcast of the Islands
+url: http://www.gutenberg.org/ebooks/638
+wikipedia:
+- https://fr.wikipedia.org/wiki/Un_paria_des_%C3%AEles
+- https://pl.wikisource.org/wiki/Banita_(Conrad)
+- https://id.wikipedia.org/wiki/An_Outcast_of_the_Islands
+- https://de.wikipedia.org/wiki/Der_Verdammte_der_Inseln_(Roman)
+- https://simple.wikipedia.org/wiki/An_Outcast_of_the_Islands
+- https://en.wikisource.org/wiki/An_Outcast_of_the_Islands
+- https://en.wikipedia.org/wiki/An_Outcast_of_the_Islands
+- https://it.wikipedia.org/wiki/Un_reietto_delle_isole
+- https://ro.wikipedia.org/wiki/Proscrisul_din_arhipelag
