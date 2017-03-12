@@ -1,5 +1,8 @@
 _repo: An-Outcast-of-the-Islands_638
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Conrad, Joseph
@@ -25,6 +28,8 @@ description: "An Outcast of the Islands is the second novel by Joseph Conrad, pu
   \ the Islands in 1951 by director Carol Reed, featuring Trevor Howard as Willems,\
   \ Ralph Richardson as Lingard, Robert Morley, and Wendy Hiller.\nThe work was quoted\
   \ in T. S. Eliot's The Hollow Men ('Life is very long.').\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/638#An-Outcast-of-the-Islands
 gutenberg_issued: '2006-01-09'
 gutenberg_type: Text
 identifiers:
